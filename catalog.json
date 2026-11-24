@@ -120,6 +120,31 @@
       "url": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-as-live-v1.0.2-1795559981105/setup.exe",
       "cover": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-as-live-v1.0.0-1795557440783/cover.png",
       "sha256": "cfdd0c66833b3d6afea1b32e503211c669af2d12c8afb2d6c860918580460fdb"
+    },
+    {
+      "history": [
+        {
+          "version": "1.0.0",
+          "notes": "",
+          "date": "2026-11-24T23:02:07.537Z"
+        }
+      ],
+      "screenshots": [
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/videloyrics-studio-pro-v1.0.0-1795561310061/capture-0.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/videloyrics-studio-pro-v1.0.0-1795561310061/capture-1.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/videloyrics-studio-pro-v1.0.0-1795561310061/capture-2.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/videloyrics-studio-pro-v1.0.0-1795561310061/capture-3.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/videloyrics-studio-pro-v1.0.0-1795561310061/capture-4.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/videloyrics-studio-pro-v1.0.0-1795561310061/capture-5.png"
+      ],
+      "id": "videloyrics-studio-pro",
+      "name": "Videolyrics Studio PRO",
+      "version": "1.0.0",
+      "description": "# VIDEOLYRICS STUDIO PRO\n\nSoftware profesional de proyección multimedia diseñado para iglesias, ministerios y eventos en vivo. Controla tus presentaciones, videolyrics y contenido audiovisual desde una sola plataforma.\n\n**Características principales:**\n\n- **Generador de Videolyrics:** crea, sincroniza y proyecta letras de canciones.\n- **Integración con REAPER y Mixing REAPER:** sincroniza automáticamente tus videolyrics con la reproducción de multitracks.\n- **YouTube integrado:** reproduce y proyecta videos directamente mediante enlaces.\n- **Biblia integrada:** búsqueda y proyección de versículos.\n- **Himnario Gracia y Devoción.**\n- **Reproductor multimedia:** imágenes, videos y fondos animados.\n- **Control remoto desde el celular mediante QR.**\n- **Múltiples salidas de proyección.**\n- **Integración con OBS Studio.**\n- **Fondos, tipografías y transiciones personalizables.**\n- **Importación y exportación de bibliotecas.**\n- **Vista previa y control de proyección en tiempo real.**\n\nUna solución integral que conecta la música, la tecnología y la proyección multimedia en una experiencia profesional.\n\n**Desarrollado por Músico Digital.**",
+      "notes": "",
+      "url": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/videloyrics-studio-pro-v1.0.0-1795561310061/setup.exe",
+      "cover": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/videloyrics-studio-pro-v1.0.0-1795561310061/cover.png",
+      "sha256": "6e0fc86762f68c00eabf1811acdfdce8ce299fcce55ff860fec6180fc858187f"
     }
   ]
 }
