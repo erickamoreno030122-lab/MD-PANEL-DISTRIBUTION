@@ -41,6 +41,34 @@
       "url": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-ascreator-v1.0.0-1795553634353/setup.exe",
       "cover": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-ascreator-v1.0.0-1795553634353/cover.png",
       "sha256": "e5f808b386b14f1797440a69811dc25403f6b2612c405315bea89b1f47b3b191"
+    },
+    {
+      "history": [
+        {
+          "version": "1.0.0",
+          "notes": "",
+          "date": "2026-11-24T21:16:48.196Z"
+        }
+      ],
+      "screenshots": [
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/md-worship-playback-v1.0.0-1795554971993/capture-0.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/md-worship-playback-v1.0.0-1795554971993/capture-1.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/md-worship-playback-v1.0.0-1795554971993/capture-2.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/md-worship-playback-v1.0.0-1795554971993/capture-3.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/md-worship-playback-v1.0.0-1795554971993/capture-4.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/md-worship-playback-v1.0.0-1795554971993/capture-5.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/md-worship-playback-v1.0.0-1795554971993/capture-6.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/md-worship-playback-v1.0.0-1795554971993/capture-7.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/md-worship-playback-v1.0.0-1795554971993/capture-8.png"
+      ],
+      "id": "md-worship-playback",
+      "name": "MD Worship Playback",
+      "version": "1.0.0",
+      "description": "WORSHIP PLAYBACK\n\nTus multitracks, pads y secuencias en un solo lugar.\n\nMD Worship Playback es un software diseñado especialmente para iglesias, ministerios de alabanza y músicos que buscan llevar sus presentaciones en vivo a otro nivel.\n\nDisfruta de una plataforma intuitiva y profesional que te permite controlar tus secuencias musicales sin necesidad de utilizar un DAW externo.\n\n**Características principales:**\n\n- Importación y reproducción de multitracks.\n- Creación y organización de setlists.\n- Mezclador con volumen, mute, solo y paneo independiente.\n- Cambio de tonalidad en tiempo real.\n- Navegación entre secciones musicales.\n- Pads ambientales con transiciones suaves.\n- Control remoto desde celulares mediante código QR.\n- Gestión de pistas de click y guía.\n- Exportación e importación de proyectos `.mdback`.\n- Interfaz moderna diseñada para presentaciones en vivo.\n\nTodo lo que tu equipo de alabanza necesita para una ejecución musical organizada, fluida y profesional.\n\nMÚSICO DIGITAL | Tecnología creada para músicos.",
+      "notes": "",
+      "url": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/md-worship-playback-v1.0.0-1795554971993/setup.exe",
+      "cover": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/md-worship-playback-v1.0.0-1795554971993/cover.png",
+      "sha256": "454b86e787590b853032008aee00f4ea37576bb239d5551c930bea183df91484"
     }
   ]
 }
