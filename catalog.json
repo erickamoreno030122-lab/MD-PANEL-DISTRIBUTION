@@ -85,6 +85,24 @@
       "url": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-ascreator-v1.0.1-1795557149674/setup.exe",
       "cover": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-ascreator-v1.0.1-1795557149674/cover.png",
       "sha256": "6eb19371581ed713b6218b555c874177a382b2feded484c98870245c4832d9b4"
+    },
+    {
+      "history": [
+        {
+          "version": "1.0.0",
+          "notes": "",
+          "date": "2026-11-24T21:57:26.592Z"
+        }
+      ],
+      "screenshots": [],
+      "id": "mixing-as-live",
+      "name": "Mixing AS Live",
+      "version": "1.0.0",
+      "description": "MIXING AS LIVE\n\nEl control de tus secuencias en vivo, al alcance de tus manos.\n\nMixing AS Live es un software desarrollado por Músico Digital, diseñado para músicos, bandas y ministerios de alabanza que buscan controlar sus secuencias musicales durante presentaciones en vivo.\n\nLleva tus setlists preparados en Mixing AS Creator al escenario y disfruta de una experiencia de control intuitiva, dinámica y profesional, integrada con Ableton Live 12.\n\nCaracterísticas principales:\n\n- Integración con Ableton Live 12.\n- Reproducción y gestión de setlists en vivo.\n- Navegación entre secciones musicales.\n- Control de introducciones, versos, coros, puentes y finales.\n- Visualización de la canción actual y la siguiente.\n- Control desde computadoras y dispositivos móviles.\n- Seguimiento de la reproducción en tiempo real.\n- Interfaz optimizada para el escenario.\n- Integración con Mixing AS Creator.\n\nPrepara tus secuencias con AS Creator y toma el control del escenario con AS Live.\n\nMÚSICO DIGITAL | Tecnología creada para músicos.",
+      "notes": "",
+      "url": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-as-live-v1.0.0-1795557440783/setup.exe",
+      "cover": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-as-live-v1.0.0-1795557440783/cover.png",
+      "sha256": "d9df7aecb23a7bfb2e6cfe085f11c465fdd3219f771414cb459ac1f518915dcb"
     }
   ]
 }
