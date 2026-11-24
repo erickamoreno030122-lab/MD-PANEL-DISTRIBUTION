@@ -104,7 +104,14 @@
           "date": "2026-11-24T21:57:26.592Z"
         }
       ],
-      "screenshots": [],
+      "screenshots": [
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-as-live-v1.0.2-1795560239411/capture-0.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-as-live-v1.0.2-1795560239411/capture-1.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-as-live-v1.0.2-1795560239411/capture-2.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-as-live-v1.0.2-1795560239411/capture-3.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-as-live-v1.0.2-1795560239411/capture-4.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-as-live-v1.0.2-1795560239411/capture-5.png"
+      ],
       "id": "mixing-as-live",
       "name": "Mixing AS Live",
       "version": "1.0.2",
