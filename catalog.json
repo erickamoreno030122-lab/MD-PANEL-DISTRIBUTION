@@ -1,6 +1,13 @@
 {
   "products": [
     {
+      "screenshots": [
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-reaper-v1.0.0-1795552405049/capture-0.jpeg",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-reaper-v1.0.0-1795552405049/capture-1.jpeg",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-reaper-v1.0.0-1795552405049/capture-2.jpeg",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-reaper-v1.0.0-1795552405049/capture-3.jpeg",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-reaper-v1.0.0-1795552405049/capture-4.jpeg"
+      ],
       "id": "mixing-reaper",
       "name": "Mixing REAPER",
       "version": "1.0.0",
