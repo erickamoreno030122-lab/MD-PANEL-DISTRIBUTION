@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": "mixing-reaper",
+      "name": "Mixing REAPER",
+      "version": "1.0.0",
+      "description": "MIXING REAPER — Control profesional de música en vivo\n\nTransforma REAPER en una potente estación de reproducción y control musical en vivo. Mixing REAPER está diseñado para músicos, iglesias, bandas y directores musicales que buscan mayor comodidad, precisión y control durante sus presentaciones.\n\n**Características principales:**\n\n- Control remoto de REAPER desde celulares, tablets y computadoras.\n- Conexión mediante red local Wi-Fi.\n- Detección automática de marcadores y secciones musicales.\n- Visualización de ondas de audio en tiempo real.\n- Setlist para organizar canciones.\n- Navegación entre intros, versos, coros, puentes y finales.\n- Saltos entre secciones musicales.\n- Control de reproducción y posicionamiento preciso.\n- Visualización del tiempo de reproducción.\n- Interfaz moderna, intuitiva y adaptable a diferentes pantallas.\n- Integración directa con REAPER.\n- Funcionamiento mediante red local sin necesidad de internet.\n\nDiseñado especialmente para presentaciones en vivo, ensayos y servicios de adoración.\n\nDesarrollado por Músico Digital.\n\nTecnología creada por músicos, para músicos.",
+      "notes": "",
+      "url": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-reaper-v1.0.0-1795551452207/setup.exe",
+      "cover": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-reaper-v1.0.0-1795551452207/cover.png",
+      "sha256": "b60ef164adccefc7762193cf228d5d4b24acecfd6a08b4846c8c53c093ffcaac"
+    }
+  ]
+}
