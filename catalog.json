@@ -31,31 +31,6 @@
     {
       "history": [
         {
-          "version": "1.0.0",
-          "notes": "",
-          "date": "2026-11-24T20:54:12.256Z"
-        }
-      ],
-      "screenshots": [
-        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-ascreator-v1.0.0-1795553634353/capture-0.png",
-        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-ascreator-v1.0.0-1795553634353/capture-1.png",
-        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-ascreator-v1.0.0-1795553634353/capture-2.png",
-        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-ascreator-v1.0.0-1795553634353/capture-3.png",
-        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-ascreator-v1.0.0-1795553634353/capture-4.png",
-        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-ascreator-v1.0.0-1795553634353/capture-5.png"
-      ],
-      "id": "mixing-ascreator",
-      "name": "Mixing AS Creator (Ableton Live)",
-      "version": "1.0.0",
-      "description": "MIXING AS CREATOR\n\nCrea, organiza y prepara tus secuencias musicales.\n\nMixing AS Creator es un software desarrollado por Músico Digital para la creación y edición de setlists profesionales, diseñado especialmente para músicos, bandas e iglesias.\n\nImporta tus multitracks, organiza tus canciones, configura las secciones musicales y personaliza cada proyecto antes de llevarlo al escenario con Mixing AS Live.\n\n**Características principales:**\n\n- Creación y edición de setlists.\n- Importación de multitracks.\n- Organización y configuración de pistas.\n- Creación de marcadores y secciones musicales.\n- Visualización de formas de onda.\n- Configuración de tonalidades.\n- Exportación de proyectos en formato `.ascreator`.\n- Compatibilidad con Mixing AS Live.\n\nPrepara todo desde AS Creator y lleva tus secuencias al escenario con AS Live.\n\nMÚSICO DIGITAL | Tecnología para músicos.",
-      "notes": "",
-      "url": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-ascreator-v1.0.0-1795553634353/setup.exe",
-      "cover": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-ascreator-v1.0.0-1795555983838/cover.png",
-      "sha256": "e5f808b386b14f1797440a69811dc25403f6b2612c405315bea89b1f47b3b191"
-    },
-    {
-      "history": [
-        {
           "version": "1.0.1",
           "notes": "",
           "date": "2026-11-24T21:33:56.923Z"
@@ -80,6 +55,36 @@
       "url": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-reaper-v1.0.1-1795556027640/setup.exe",
       "cover": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-reaper-v1.0.0-1795555997413/cover.png",
       "sha256": "fefd022c5b843624f39943cbacad32710971c7a4e4dca56cc58de0150c2b13f3"
+    },
+    {
+      "history": [
+        {
+          "version": "1.0.1",
+          "notes": "",
+          "date": "2026-11-24T21:52:49.006Z"
+        },
+        {
+          "version": "1.0.0",
+          "notes": "",
+          "date": "2026-11-24T20:54:12.256Z"
+        }
+      ],
+      "screenshots": [
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-ascreator-v1.0.1-1795557149674/capture-0.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-ascreator-v1.0.1-1795557149674/capture-1.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-ascreator-v1.0.1-1795557149674/capture-2.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-ascreator-v1.0.1-1795557149674/capture-3.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-ascreator-v1.0.1-1795557149674/capture-4.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-ascreator-v1.0.1-1795557149674/capture-5.png"
+      ],
+      "id": "mixing-ascreator",
+      "name": "Mixing AS Creator (Ableton Live)",
+      "version": "1.0.1",
+      "description": "MIXING AS CREATOR\n\nCrea, organiza y prepara tus secuencias musicales.\n\nMixing AS Creator es un software desarrollado por Músico Digital para la creación y edición de setlists profesionales, diseñado especialmente para músicos, bandas e iglesias.\n\nImporta tus multitracks, organiza tus canciones, configura las secciones musicales y personaliza cada proyecto antes de llevarlo al escenario con Mixing AS Live.\n\nCaracterísticas principales:\n\n- Creación y edición de setlists.\n- Importación de multitracks.\n- Organización y configuración de pistas.\n- Creación de marcadores y secciones musicales.\n- Visualización de formas de onda.\n- Configuración de tonalidades.\n- Exportación de proyectos en formato `.ascreator`.\n- Compatibilidad con Mixing AS Live.\n\nPrepara todo desde AS Creator y lleva tus secuencias al escenario con AS Live.\n\nMÚSICO DIGITAL | Tecnología para músicos.",
+      "notes": "",
+      "url": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-ascreator-v1.0.1-1795557149674/setup.exe",
+      "cover": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-ascreator-v1.0.1-1795557149674/cover.png",
+      "sha256": "6eb19371581ed713b6218b555c874177a382b2feded484c98870245c4832d9b4"
     }
   ]
 }
