@@ -174,6 +174,24 @@
       "url": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/md-studio-v1.0.0-1795581024258/setup.exe",
       "cover": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/md-studio-v1.0.0-1795581024258/cover.png",
       "sha256": "a4fd10917044ec661d8803e401be51b4f9238eb8c4285683ffd96d61794f296f"
+    },
+    {
+      "history": [
+        {
+          "version": "1.0.0",
+          "notes": "Primera versión para Android"
+        }
+      ],
+      "screenshots": [],
+      "id": "mixing-reaper-mobile",
+      "name": "Mixing Reaper (Android)",
+      "version": "1.0.0",
+      "description": "Control remoto de REAPER desde Android. Controla la reproducción y navega entre secciones musicales desde tu celular. Requiere REAPER en tu computadora y conexión a la misma red local. Desarrollado por Músico Digital.",
+      "notes": "Primera versión para Android",
+      "url": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-reaper-mobile-v1.0.0-1795622056344/Mixing.Reaper.Mobile.apk",
+      "cover": "",
+      "platform": "android",
+      "sha256": ""
     }
   ]
 }
