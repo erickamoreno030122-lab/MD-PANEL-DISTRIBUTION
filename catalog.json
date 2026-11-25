@@ -200,7 +200,7 @@
       "description": "**Mixing REAPER Mobile**\n\nLleva el control de tus multitracks directamente a tu dispositivo Android. Mixing REAPER Mobile te permite controlar REAPER de forma inalámbrica, con una interfaz moderna, intuitiva y optimizada para presentaciones en vivo.\n\n**Características principales:**\n- Control remoto mediante conexión Wi-Fi.\n- Gestión de canciones y setlist.\n- Control de reproducción en tiempo real.\n- Navegación entre marcadores y secciones musicales.\n- Saltos entre versos, coros, puentes e introducciones.\n- Visualización del progreso de cada canción.\n- Interfaz táctil optimizada para celulares y tablets.\n\nDiseñado especialmente para músicos, directores musicales, bandas y equipos de adoración.\n\nRequiere REAPER en tu computadora y conexión a la misma red local.\n\n**Desarrollado por Músico Digital.**\nTecnología creada por músicos, para músicos.",
       "notes": "",
       "url": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-reaper-mobile-v1.0.2-1bf28a40a6a18c322796/mixing-reaper-mobile-1.0.2.apk",
-      "cover": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-reaper-mobile-v1.0.2-1bf28a40a6a18c322796/cover.png",
+      "cover": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/mixing-reaper-mobile-v1.0.2/cover-3b91039a64fbf1da39b6.png",
       "sha256": "56547e1d2fa546a91b43f16e183ba69fb29b17b926e7d3b24ff6399805adc940"
     }
   ]
