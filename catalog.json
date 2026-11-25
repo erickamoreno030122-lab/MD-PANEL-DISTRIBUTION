@@ -145,6 +145,35 @@
       "url": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/videloyrics-studio-pro-v1.0.0-1795561310061/setup.exe",
       "cover": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/videloyrics-studio-pro-v1.0.0-1795561310061/cover.png",
       "sha256": "6e0fc86762f68c00eabf1811acdfdce8ce299fcce55ff860fec6180fc858187f"
+    },
+    {
+      "history": [
+        {
+          "version": "1.0.0",
+          "notes": "",
+          "date": "2026-11-25T04:30:59.654Z"
+        }
+      ],
+      "screenshots": [
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/md-studio-v1.0.0-1795581024258/capture-0.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/md-studio-v1.0.0-1795581024258/capture-1.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/md-studio-v1.0.0-1795581024258/capture-2.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/md-studio-v1.0.0-1795581024258/capture-3.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/md-studio-v1.0.0-1795581024258/capture-4.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/md-studio-v1.0.0-1795581024258/capture-5.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/md-studio-v1.0.0-1795581024258/capture-6.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/md-studio-v1.0.0-1795581024258/capture-7.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/md-studio-v1.0.0-1795581024258/capture-8.png",
+        "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/md-studio-v1.0.0-1795581024258/capture-9.png"
+      ],
+      "id": "md-studio",
+      "name": "MD Stem Studio (Beta)",
+      "version": "1.0.0",
+      "description": "**MD STEM STUDIO ULTRA**\n\nTransforma cualquier canción en una experiencia de producción musical profesional con inteligencia artificial.\n\nSepara voces, batería, bajo, guitarra, piano y otros instrumentos de manera independiente. Detecta acordes, tonalidad y BPM, genera letras sincronizadas y crea tus propios karaokes desde una sola aplicación.\n\n**Características principales:**\n\n- Separación de instrumentos mediante inteligencia artificial.\n- Modo Ultra Studio para una separación de mayor calidad.\n- Restauración de audio y reducción de artefactos digitales.\n- Reproductor multipista con controles de volumen, Mute y Solo.\n- Detección automática de acordes y tonalidad.\n- Editor de letras y acordes integrado.\n- Exportación de acordes y letras en PDF.\n- Generador de karaoke con letras sincronizadas.\n- Exportación de pistas individuales o mezclas personalizadas.\n- Audio WAV de hasta 32 bits Float y 96 kHz.\n- Interfaz profesional en negro y azul oscuro.\n- Procesamiento local, sin suscripciones mensuales.\n\nIdeal para músicos, productores, bandas, iglesias y profesores de música.\n\n**Separa. Analiza. Edita. Crea.**\n\nDesarrollado por **Músico Digital**.",
+      "notes": "",
+      "url": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/md-studio-v1.0.0-1795581024258/setup.exe",
+      "cover": "https://github.com/erickamoreno030122-lab/MD-PANEL-DISTRIBUTION/releases/download/md-studio-v1.0.0-1795581024258/cover.png",
+      "sha256": "a4fd10917044ec661d8803e401be51b4f9238eb8c4285683ffd96d61794f296f"
     }
   ]
 }
